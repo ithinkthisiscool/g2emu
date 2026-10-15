@@ -4,7 +4,7 @@ The real Even G2 firmware running in Renode, its display shown live in a native 
 (GTK4 + libadwaita), with buttons/keys driven by a config file. Think "QEMU for the glasses".
 
 ![G2 Emulator](./assets/2.jpeg)
-![G2 Menu Showcase](./assets/1.png)
+![G2 Menu Showcase](./assets/1(1).png)
 
 ## Quickstart
 
