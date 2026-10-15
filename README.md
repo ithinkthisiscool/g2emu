@@ -43,5 +43,5 @@ Ensure you have the following dependencies installed on your system:
 ---
 
 
-## 📄 License
+## License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
